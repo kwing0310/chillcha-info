@@ -7,8 +7,8 @@ export default defineConfig({
     nav: [
       { text: 'ホーム', link: '/' },
       { text: '運営ブログ', link: '/blog/2024-08-31' },
-      { text: '利用規約', link: '/terms' },
-      { text: '独自機能', link: '/features' }
+      { text: '利用規約', link: '/terms/' },
+      { text: '独自機能', link: '/features/' }
     ],
 
     sidebar: {
@@ -17,6 +17,19 @@ export default defineConfig({
           text: '記事一覧',
           items: [
             { text: 'v4.1.19+chillout.2 へのアップデートを実施します', link: '/blog/2024-08-31' }
+          ]
+        }
+      ],
+      '/features/': [
+        {
+          items: [
+            { text: '独自機能', link: '/features/' }
+          ]
+        },
+        {
+          text: '実装済みの独自機能',
+          items: [
+            { text: 'レガシーモード', link: '/features/legacy-mode' }
           ]
         }
       ],
