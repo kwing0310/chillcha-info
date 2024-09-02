@@ -12,9 +12,11 @@ layout: doc
 
 ### 互換性の向上
 
-Mastodon は ActivityPub に対応した分散型ソーシャルメディアの一種であり、Misskey や Pleroma などの他のソフトウェアを利用しているサーバーとも通信することができます。一方で、他のソフトウェアとの完全な互換性はないため、一部の機能を相互に利用することができません。Mastodon Chillout Edition では、他のソフトウェアとの互換性を強化しすることで、外部のサーバーの投稿を参照しやすくしています。移植する機能・しない機能を選ぶ際には、安定性や保守コスト、Chillout Chat のコンセプトに合うかどうかなど、様々な側面から総合的に判断しています。
+Mastodon は ActivityPub に対応したソフトウェアの一種であり、Misskey や Pleroma などの他のソフトウェアを利用しているサーバーとも通信することができます。一方で、他のソフトウェアとの完全な互換性はないため、一部の機能は相互に利用することができません。
 
-以下の表は、2024年8月現在での各ソフトウェアにおける投稿に関する機能を比較したものです。
+Mastodon Chillout Edition では、他のソフトウェアとの互換性を強化しすることで、外部のサーバーの投稿を参照しやすくしています。完全な互換性を目指しているのではなく、安定性や保守コスト、Chillout Chat のコンセプトに合うかどうかなど、様々な側面から移植する機能・しない機能を検討しています。
+
+以下の表は、各ソフトウェアにおける投稿に関する機能を比較したものです。
 
 |     | Chillout | Mastodon | Misskey | Pleroma | 
 | --- | --- | --- | --- | --- |
@@ -28,14 +30,14 @@ Mastodon は ActivityPub に対応した分散型ソーシャルメディアの�
 
 ※ Mastodon, Misskey, Pleroma はいずれも公式リポジトリです。フォークによっては実装状況が異なる場合があります。
 
-::: TIP
-Mastodon Chillout Edition の他にも、Fedibird ([fedibird/mastodon](https://github.com/fedibird/mastodon)) や kmyblue [kmycode/mastodon](https://github.com/kmycode/mastodon) などの、Misskey や Pleroma との互換性を強化した様々な Mastodon フォークが公開されています。
+::: tip
+Mastodon Chillout Edition の他にも、Fedibird ([fedibird/mastodon](https://github.com/fedibird/mastodon)) や kmyblue ([kmycode/mastodon](https://github.com/kmycode/mastodon)) などの、Misskey や Pleroma との互換性を強化した様々な Mastodon フォークが公開されています。
 :::
 
 ### 居心地の良い環境の提供
 
 Chillout Chat のコンセプトである「音楽好きの人々が集まる、落ち着き・くつろぎの空間」を実現するための機能を実装していく予定です。
 
-::: INFO
+::: info
 Mastodon Chillout Edition は Chillout Chat 向けに開発しているものであり、他のサーバーでの運用をサポートする予定はありません。
 :::
