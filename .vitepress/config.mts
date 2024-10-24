@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'ホーム', link: '/' },
-      { text: '運営ブログ', link: '/blog/2024-08-31' },
+      { text: '運営ブログ', link: '/blog/maintenance-2024-10-28' },
       { text: '利用規約', link: '/terms/' },
       { text: '独自機能', link: '/features/' }
     ],
@@ -16,7 +16,7 @@ export default defineConfig({
         {
           text: '記事一覧',
           items: [
-            { text: '停止メンテナンスのお知らせ (2024-10-28)', link: '/blog/maintenance-2024-10-28.md' }
+            { text: '停止メンテナンスのお知らせ (2024-10-28)', link: '/blog/maintenance-2024-10-28' }
           ]
         }
       ],
