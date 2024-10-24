@@ -16,7 +16,7 @@ export default defineConfig({
         {
           text: '記事一覧',
           items: [
-            { text: 'v4.1.19+chillout.2 へのアップデートを実施します', link: '/blog/2024-08-31' }
+            { text: '停止メンテナンスのお知らせ (2024-10-28)', link: '/blog/maintenance-2024-10-28.md' }
           ]
         }
       ],
