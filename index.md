@@ -48,7 +48,4 @@ Mastodon サーバ **[Chillout Chat](https://chillout.chat)** のサービスに
 
 ## システム構成
 
-複数拠点による冗長化を行っています。
-
-![システム構成図 (2024-08-31 現在)](https://media.chillout.chat/media_attachments/files/113/009/071/772/604/065/original/d9a9b858ecb98a3d.png)
-
+![システム構成図 (2024-11-01 現在)](https://media.chillout.chat/media_attachments/files/113/407/200/255/764/622/original/b850e9ea49467835.jpeg)
