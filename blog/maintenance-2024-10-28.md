@@ -7,6 +7,10 @@ title: メンテナンスのお知らせ (2024-10-28)
 
 > 投稿者: Chillout Chat 運営チーム ([@chillout_chat@chillout.chat](https://chillout.chat/@chillout_chat))
 
+::: tip 終了済み
+このメンテナンスは終了しました。ご協力ありがとうございました。
+:::
+
 下記のとおり、停止メンテナンスを実施いたします。ご迷惑をおかけしますが、ご理解とご協力をお願いいたします。
 
 ::: tip 停止メンテナンス
