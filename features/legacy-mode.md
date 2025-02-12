@@ -4,6 +4,8 @@ layout: doc
 
 # レガシーモード
 
+![レガシーモードの紹介画像](https://media.chillout.chat/media_attachments/files/113/068/359/845/689/294/original/4ff4592b0e7fc155.png)
+
 (v4.1.19+chillout.2 ~)
 
 レガシーモードは、タイムラインやモバイル UI の表示を Mastodon v3 以前のような見た目にする機能です。
